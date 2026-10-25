@@ -1,0 +1,8 @@
+pyodbc
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+jupyter
+ipykernel

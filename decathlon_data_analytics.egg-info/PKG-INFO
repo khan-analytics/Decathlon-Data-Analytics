@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: decathlon-data-analytics
+Version: 0.1.0
+Summary: Data analytics portfolio project using SQL Server, Python, and Power BI
+Requires-Python: >=3.10

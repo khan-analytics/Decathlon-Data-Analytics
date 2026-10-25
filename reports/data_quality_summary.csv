@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Missing_Cells,Missing_Percentage,Duplicate_Rows
+Products,240,9,0,0.0,0
+Sales,84000,22,0,0.0,0
+Stores,30,8,0,0.0,0

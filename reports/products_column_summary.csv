@@ -1,0 +1,10 @@
+Column,Data_Type,Non_Null_Count,Missing_Count,Unique_Values
+Product_Key,object,240,0,240
+Product_Name,object,240,0,240
+Sport,object,240,0,10
+Product_Type,object,240,0,40
+Brand_Label,object,240,0,10
+Product_Tier,object,240,0,3
+Colour,object,240,0,2
+Base_List_Price_INR,float64,240,0,44
+Base_Unit_Cost_INR,float64,240,0,222

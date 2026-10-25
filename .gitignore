@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# Data files (if stored in a data folder)
+data/*.csv
+data/*.xlsx

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "decathlon-data-analytics"
+version = "0.1.0"
+description = "Data analytics portfolio project using SQL Server, Python, and Power BI"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["src*"]

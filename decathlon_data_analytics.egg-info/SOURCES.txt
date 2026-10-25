@@ -1,0 +1,7 @@
+pyproject.toml
+decathlon_data_analytics.egg-info/PKG-INFO
+decathlon_data_analytics.egg-info/SOURCES.txt
+decathlon_data_analytics.egg-info/dependency_links.txt
+decathlon_data_analytics.egg-info/top_level.txt
+src/__init__.py
+src/database.py

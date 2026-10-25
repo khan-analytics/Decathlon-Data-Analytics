@@ -1,0 +1,9 @@
+Column,Data_Type,Non_Null_Count,Missing_Count,Unique_Values
+Store_Key,object,30,0,30
+Store_Name,object,30,0,30
+City,object,30,0,30
+State,object,30,0,20
+Region,object,30,0,5
+Country,object,30,0,1
+Store_Format,object,30,0,2
+Floor_Area_Sqm,int64,30,0,23
